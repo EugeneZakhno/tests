@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java-tests/java-tests.iml" filepath="$PROJECT_DIR$/java-tests/java-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sololearn_challenges/sololearn_challenges.iml" filepath="$PROJECT_DIR$/sololearn_challenges/sololearn_challenges.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tests.iml" filepath="$PROJECT_DIR$/.idea/tests.iml" />
     </modules>
   </component>

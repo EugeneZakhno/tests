@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="java-tests" />
+        <module name="sololearn_challenges" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="java-tests" target="1.5" />
+      <module name="sololearn_challenges" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
