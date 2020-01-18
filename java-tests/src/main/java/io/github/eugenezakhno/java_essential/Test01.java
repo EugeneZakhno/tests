@@ -1,6 +1,5 @@
 package io.github.eugenezakhno.java_essential;
 
-
 //https://photos.app.goo.gl/1rSe9bnxgKnm82GN6
 public class Test01 {
     public static void main(String[] args) {
@@ -18,5 +17,4 @@ public class Test01 {
             y++;
             z[0]++;
         }
-
 }
