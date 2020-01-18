@@ -1,8 +1,7 @@
 package io.github.eugenezakhno.java_essential;
-// https://photos.app.goo.gl/HtRQtYMq7YZerVMk6
 
-// https://photos.app.goo.gl/o5m4q63euaJzEzX8A
 
+//https://photos.app.goo.gl/1rSe9bnxgKnm82GN6
 public class Test01 {
     public static void main(String[] args) {
         int x = 1;
